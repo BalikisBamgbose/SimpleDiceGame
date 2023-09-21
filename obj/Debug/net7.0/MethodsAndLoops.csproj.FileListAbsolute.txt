@@ -1,0 +1,15 @@
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.csproj.AssemblyReference.cache
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.AssemblyInfoInputs.cache
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.AssemblyInfo.cs
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\bin\Debug\net7.0\MethodsAndLoops.exe
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\bin\Debug\net7.0\MethodsAndLoops.deps.json
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\bin\Debug\net7.0\MethodsAndLoops.runtimeconfig.json
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\bin\Debug\net7.0\MethodsAndLoops.dll
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\bin\Debug\net7.0\MethodsAndLoops.pdb
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.dll
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\refint\MethodsAndLoops.dll
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.pdb
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\MethodsAndLoops.genruntimeconfig.cache
+C:\Users\IBCIRCUIT\Desktop\MethodsAndLoops\obj\Debug\net7.0\ref\MethodsAndLoops.dll
